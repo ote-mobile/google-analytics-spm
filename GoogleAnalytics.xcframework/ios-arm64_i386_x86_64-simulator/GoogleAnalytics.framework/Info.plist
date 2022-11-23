@@ -5,7 +5,7 @@
 	<key>CFBundleExecutable</key>
 	<string>GoogleAnalytics</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.firebase.Firebase-GoogleAnalytics</string>
+	<string>com.firebase.FirebaseGoogleAnalytics</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -16,5 +16,7 @@
 	<string>3.20.0</string>
 	<key>DTSDKName</key>
 	<string>iphonesimulator11.2</string>
+	<key>MinimumOSVersion</key>
+	<string>13.0</string>
 </dict>
 </plist>
